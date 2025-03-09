@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+docker
+#-e .  #just comment it in case we forgot to add few packages and need to install, and if after the project over comment it out
